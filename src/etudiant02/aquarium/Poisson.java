@@ -1,6 +1,6 @@
 package etudiant02.aquarium;
 
-public class Poisson extends AbstractAnimal implements Nageur {
+public abstract class Poisson extends AbstractAnimal implements Nageur {
 
     protected String couleur;
 
