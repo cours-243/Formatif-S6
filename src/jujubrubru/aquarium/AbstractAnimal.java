@@ -1,4 +1,4 @@
-package etudiant02.aquarium;
+package jujubrubru.aquarium;
 
 public abstract class AbstractAnimal {
 
